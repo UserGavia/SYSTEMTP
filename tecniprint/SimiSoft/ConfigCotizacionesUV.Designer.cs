@@ -112,7 +112,7 @@
             // 
             // textEdit1
             // 
-            textEdit1.Location = new System.Drawing.Point(15, 26);
+            textEdit1.Location = new System.Drawing.Point(58, 26);
             textEdit1.Name = "textEdit1";
             textEdit1.Size = new System.Drawing.Size(100, 20);
             textEdit1.TabIndex = 7;
@@ -129,7 +129,7 @@
             // 
             // textEdit3
             // 
-            textEdit3.Location = new System.Drawing.Point(15, 26);
+            textEdit3.Location = new System.Drawing.Point(58, 26);
             textEdit3.Name = "textEdit3";
             textEdit3.Size = new System.Drawing.Size(100, 20);
             textEdit3.TabIndex = 9;
@@ -146,7 +146,7 @@
             // 
             // textEdit5
             // 
-            textEdit5.Location = new System.Drawing.Point(15, 26);
+            textEdit5.Location = new System.Drawing.Point(58, 28);
             textEdit5.Name = "textEdit5";
             textEdit5.Size = new System.Drawing.Size(100, 20);
             textEdit5.TabIndex = 11;
@@ -163,7 +163,7 @@
             // 
             // textEdit2
             // 
-            textEdit2.Location = new System.Drawing.Point(15, 28);
+            textEdit2.Location = new System.Drawing.Point(58, 28);
             textEdit2.Name = "textEdit2";
             textEdit2.Size = new System.Drawing.Size(100, 20);
             textEdit2.TabIndex = 8;
@@ -180,7 +180,7 @@
             // 
             // textEdit4
             // 
-            textEdit4.Location = new System.Drawing.Point(15, 26);
+            textEdit4.Location = new System.Drawing.Point(58, 26);
             textEdit4.Name = "textEdit4";
             textEdit4.Size = new System.Drawing.Size(100, 20);
             textEdit4.TabIndex = 10;
@@ -197,7 +197,7 @@
             // 
             // textEdit6
             // 
-            textEdit6.Location = new System.Drawing.Point(15, 26);
+            textEdit6.Location = new System.Drawing.Point(58, 26);
             textEdit6.Name = "textEdit6";
             textEdit6.Size = new System.Drawing.Size(100, 20);
             textEdit6.TabIndex = 12;
