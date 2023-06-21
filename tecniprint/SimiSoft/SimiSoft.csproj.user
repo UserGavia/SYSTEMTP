@@ -14,4 +14,9 @@
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
     <_LastSelectedProfileId>C:\Users\USER\Source\Repos\SYSTEMTP\tecniprint\SimiSoft\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>
