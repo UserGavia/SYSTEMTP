@@ -116,6 +116,7 @@
             btnLimpiar = new DevExpress.XtraEditors.SimpleButton();
             btnNuevo = new DevExpress.XtraEditors.SimpleButton();
             btmEliminar = new DevExpress.XtraEditors.SimpleButton();
+            simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)groupControl1).BeginInit();
             groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)txtGloss.Properties).BeginInit();
@@ -904,11 +905,21 @@
             btmEliminar.Text = "Eliminar";
             btmEliminar.Click += btmEliminar_Click;
             // 
+            // simpleButton1
+            // 
+            simpleButton1.Location = new System.Drawing.Point(690, 32);
+            simpleButton1.Name = "simpleButton1";
+            simpleButton1.Size = new System.Drawing.Size(75, 23);
+            simpleButton1.TabIndex = 25;
+            simpleButton1.Text = "Configurar";
+            simpleButton1.Click += simpleButton1_Click;
+            // 
             // frmCotizacionesUV
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(1296, 934);
+            Controls.Add(simpleButton1);
             Controls.Add(btmEliminar);
             Controls.Add(btnNuevo);
             Controls.Add(btnLimpiar);
@@ -1073,5 +1084,6 @@
         private DevExpress.XtraEditors.SimpleButton btnTipo;
         private DevExpress.XtraEditors.TextEdit txtCategoria;
         private DevExpress.XtraEditors.TextEdit txtProducto;
+        private DevExpress.XtraEditors.SimpleButton simpleButton1;
     }
 }

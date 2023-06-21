@@ -15,6 +15,9 @@
     <_LastSelectedProfileId>C:\Users\USER\Source\Repos\SYSTEMTP\tecniprint\SimiSoft\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="ConfigCotizacionesUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ExtraerTextoImagen.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -6493,9 +6493,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj",
       "projectName": "TP",
-      "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\obj\\",
       "projectStyle": "PackageReference",
@@ -6521,8 +6521,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj": {
-              "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj"
+            "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj"
             }
           }
         }

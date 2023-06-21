@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eGM1Y3fLPa7c+4vIh+yf3wQse3ZYKBTHY39g7IZo8SHFjYghUrOngBA7rPyoEgKp8xPF7S0IodijmvkirsDrcg==",
+  "dgSpecHash": "jYpHtHFJCMm00EY/EaMG5nXkKN9ERRZJh2kpr1SOFvx7/pGE5pmCOJnYx6XOc3sgKJznWJ+SvX5LYDbdh27nbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

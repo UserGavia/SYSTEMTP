@@ -1,4 +1,5 @@
 ﻿using DevExpress.XtraEditors;
+using DevExpress.XtraSplashScreen;
 using FarmsRamirezBML;
 using iTextSharp.text;
 using iTextSharp.text.pdf;
@@ -295,6 +296,14 @@ namespace TP
                 txtProducto.Text = producto.Nombre;
                 // Ajusta el resto de los controles según las propiedades del objeto Cliente.
             }
+        }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            new ConfigCotizacionesUV
+            {
+                Text = "Configuracion"
+            }.ShowDialog();
         }
     }
 }

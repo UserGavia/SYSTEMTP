@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {
+    "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
         "projectName": "FarmsRamirezDAL",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
