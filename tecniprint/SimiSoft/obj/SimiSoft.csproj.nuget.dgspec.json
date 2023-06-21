@@ -1,19 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\SimiSoft\\SimiSoft.csproj": {}
+    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj": {
+    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj",
         "projectName": "FarmsRamirezBML",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj",
+        "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {
-                "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj"
+              "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {
+                "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj"
               }
             }
           }
@@ -23,14 +23,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {
+    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
         "projectName": "FarmsRamirezDAL",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
+        "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\FarmsRamirezDAL.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezDAL\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezDAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -108,14 +108,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\SimiSoft\\SimiSoft.csproj": {
+    "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\SimiSoft\\SimiSoft.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj",
         "projectName": "TP",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\SimiSoft\\SimiSoft.csproj",
+        "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\SimiSoft\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -139,8 +139,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj": {
-                "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj"
+              "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj": {
+                "projectPath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\FarmsRamirezBML\\FarmsRamirezBML.csproj"
               }
             }
           }

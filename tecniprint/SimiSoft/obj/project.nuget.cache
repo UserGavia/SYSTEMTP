@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mSgfIC4iQIjKcno2IJqtEeJGmMzKp/4iEUrUZsjBHXG2Mylwb0+c+TqcimHzGmM4LormrLJ9SfHhIt/7yumvUQ==",
+  "dgSpecHash": "eSUmcv5o0fU8FwEoWkqlYVVAl64RTkBFLwlSRqJUTXr86KtCoJArew75Y/BAYjF4vEvQPUQZYOA1/5vvkvOSYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTECNIPRINT\\tecniprint\\SimiSoft\\SimiSoft.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\SYSTEMTP\\tecniprint\\SimiSoft\\SimiSoft.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
