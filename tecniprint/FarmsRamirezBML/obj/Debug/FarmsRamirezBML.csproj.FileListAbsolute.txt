@@ -1,0 +1,92 @@
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.pdb
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\Dapper.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.pdb
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\Dapper.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csprojAssemblyReference.cache
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CopyComplete
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.pdb
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.pdb
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\bin\Debug\Dapper.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.pdb
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\bin\Debug\Dapper.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csprojAssemblyReference.cache
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CoreCompileInputs.cache
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CopyComplete
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.pdb
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.pdb
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\Dapper.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.pdb
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\Dapper.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CopyComplete
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.pdb
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.dll.config
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\BarcodeStandard.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Text.Json.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Drawing.Common.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Text.Json.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezBML\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.dll.config
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\FarmsRamirezBML.pdb
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\BarcodeStandard.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\Dapper.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Buffers.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Memory.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Text.Json.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\FarmsRamirezDAL.pdb
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\Dapper.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Buffers.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Drawing.Common.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Memory.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Text.Json.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.csproj.CopyComplete
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezBML\obj\Debug\FarmsRamirezBML.pdb

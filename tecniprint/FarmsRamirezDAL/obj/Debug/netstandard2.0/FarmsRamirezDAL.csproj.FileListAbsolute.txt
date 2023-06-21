@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\bin\Debug\netstandard2.0\FarmsRamirezDAL.deps.json
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\bin\Debug\netstandard2.0\FarmsRamirezDAL.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\bin\Debug\netstandard2.0\FarmsRamirezDAL.pdb
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.dll
+C:\Users\USER\source\repos\FarmsRamirez\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.pdb
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\bin\Debug\netstandard2.0\FarmsRamirezDAL.deps.json
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\bin\Debug\netstandard2.0\FarmsRamirezDAL.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\bin\Debug\netstandard2.0\FarmsRamirezDAL.pdb
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.csproj.AssemblyReference.cache
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.dll
+C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\FarmsRamirezDAL\obj\Debug\netstandard2.0\FarmsRamirezDAL.pdb

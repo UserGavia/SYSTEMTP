@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>E:\TEAM\SISTEMAS\FORMNET\|publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <_LastSelectedProfileId>C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\SimiSoft\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ExtraerTextoImagen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBuscarCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBuscarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBuscarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAsignarPermisosRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCotizaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCotizacionesUV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNMCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNMCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNMProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNMProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNMRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNMUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

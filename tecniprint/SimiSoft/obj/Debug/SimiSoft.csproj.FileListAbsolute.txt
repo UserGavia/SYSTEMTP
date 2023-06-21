@@ -1,0 +1,312 @@
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\SimiSoft.exe.config
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\SimiSoft.exe
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\SimiSoft.pdb
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezBML.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezDAL.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\Dapper.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezBML.pdb
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezDAL.pdb
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\Dapper.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csprojAssemblyReference.cache
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmMain.resources
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmProductos.resources
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.Properties.Resources.resources
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.GenerateResource.cache
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.exe.licenses
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.CopyComplete
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.exe
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.pdb
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmLogin.resources
+C:\Users\Gerardo Ramirez\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.NMProducto.resources
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\SimiSoft.exe.config
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\SimiSoft.exe
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\SimiSoft.pdb
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezBML.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezDAL.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\Dapper.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezBML.pdb
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezDAL.pdb
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\Dapper.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csprojAssemblyReference.cache
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmLogin.resources
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmMain.resources
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmProductos.resources
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmNMProducto.resources
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.Properties.Resources.resources
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.GenerateResource.cache
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.exe.licenses
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.CoreCompileInputs.cache
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.CopyComplete
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.exe
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.pdb
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.BonusSkins.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\ramirez\source\repos\GerardoRamirez98\FarmsRamirez\SimiSoft\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezBML.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezDAL.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\Dapper.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezBML.pdb
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezDAL.pdb
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\Dapper.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmLogin.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmMain.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmProductos.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmNMProducto.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.csproj.CopyComplete
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmProveedores.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmCliente.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmNMProveedor.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmNMCliente.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\BarcodeStandard.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Text.Json.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\FarmsRamirezBML.dll.config
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Text.Json.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Drawing.Common.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmRoles.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmAsignarPermisosRol.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmCategorias.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmUsuarios.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\SimiSoft.frmNMRoles.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TECNIPRINT.frmNMCategoria.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TECNIPRINT.frmNMUsuario.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TECNIPRINT.frmVenta.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\TP.exe.config
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\TP.exe.manifest
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\TP.application
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\TP.exe
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\TP.pdb
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TP.Properties.Resources.resources
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TP.exe.licenses
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TP.TrustInfo.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TP.exe.manifest
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TP.application
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TP.exe
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\obj\Debug\TP.pdb
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\libSkiaSharp.dylib
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\SkiaSharp.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Resources.Extensions.dll
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\SkiaSharp.pdb
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\SkiaSharp.xml
+C:\Users\USER\source\repos\FarmsRamirez\SimiSoft\bin\Debug\System.Resources.Extensions.xml
