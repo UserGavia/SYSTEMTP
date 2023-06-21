@@ -41,13 +41,17 @@
             groupControl6 = new DevExpress.XtraEditors.GroupControl();
             textEdit6 = new DevExpress.XtraEditors.TextEdit();
             groupControl7 = new DevExpress.XtraEditors.GroupControl();
+            labelControl17 = new DevExpress.XtraEditors.LabelControl();
+            labelControl16 = new DevExpress.XtraEditors.LabelControl();
+            labelControl15 = new DevExpress.XtraEditors.LabelControl();
+            labelControl14 = new DevExpress.XtraEditors.LabelControl();
+            labelControl13 = new DevExpress.XtraEditors.LabelControl();
             textEdit11 = new DevExpress.XtraEditors.TextEdit();
             textEdit10 = new DevExpress.XtraEditors.TextEdit();
             textEdit9 = new DevExpress.XtraEditors.TextEdit();
             textEdit8 = new DevExpress.XtraEditors.TextEdit();
             textEdit7 = new DevExpress.XtraEditors.TextEdit();
             groupControl8 = new DevExpress.XtraEditors.GroupControl();
-            simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             txtGloss = new DevExpress.XtraEditors.TextEdit();
             txtCyan = new DevExpress.XtraEditors.TextEdit();
             txtBlack = new DevExpress.XtraEditors.TextEdit();
@@ -60,11 +64,7 @@
             labelControl3 = new DevExpress.XtraEditors.LabelControl();
             labelControl2 = new DevExpress.XtraEditors.LabelControl();
             labelControl1 = new DevExpress.XtraEditors.LabelControl();
-            labelControl13 = new DevExpress.XtraEditors.LabelControl();
-            labelControl14 = new DevExpress.XtraEditors.LabelControl();
-            labelControl15 = new DevExpress.XtraEditors.LabelControl();
-            labelControl16 = new DevExpress.XtraEditors.LabelControl();
-            labelControl17 = new DevExpress.XtraEditors.LabelControl();
+            simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)groupControl1).BeginInit();
             groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)textEdit1.Properties).BeginInit();
@@ -222,6 +222,46 @@
             groupControl7.Text = "COSTO POR TIPO DE LIMPIEZA";
             groupControl7.Paint += groupControl7_Paint;
             // 
+            // labelControl17
+            // 
+            labelControl17.Location = new System.Drawing.Point(14, 137);
+            labelControl17.Name = "labelControl17";
+            labelControl17.Size = new System.Drawing.Size(38, 13);
+            labelControl17.TabIndex = 22;
+            labelControl17.Text = "Manual:";
+            // 
+            // labelControl16
+            // 
+            labelControl16.Location = new System.Drawing.Point(14, 111);
+            labelControl16.Name = "labelControl16";
+            labelControl16.Size = new System.Drawing.Size(53, 13);
+            labelControl16.TabIndex = 21;
+            labelControl16.Text = "Power Full:";
+            // 
+            // labelControl15
+            // 
+            labelControl15.Location = new System.Drawing.Point(14, 85);
+            labelControl15.Name = "labelControl15";
+            labelControl15.Size = new System.Drawing.Size(56, 13);
+            labelControl15.TabIndex = 20;
+            labelControl15.Text = "Normal 1/2:";
+            // 
+            // labelControl14
+            // 
+            labelControl14.Location = new System.Drawing.Point(14, 59);
+            labelControl14.Name = "labelControl14";
+            labelControl14.Size = new System.Drawing.Size(37, 13);
+            labelControl14.TabIndex = 19;
+            labelControl14.Text = "Normal:";
+            // 
+            // labelControl13
+            // 
+            labelControl13.Location = new System.Drawing.Point(14, 33);
+            labelControl13.Name = "labelControl13";
+            labelControl13.Size = new System.Drawing.Size(43, 13);
+            labelControl13.TabIndex = 18;
+            labelControl13.Text = "Ninguna:";
+            // 
             // textEdit11
             // 
             textEdit11.Location = new System.Drawing.Point(77, 56);
@@ -277,14 +317,6 @@
             groupControl8.Size = new System.Drawing.Size(198, 178);
             groupControl8.TabIndex = 4;
             groupControl8.Text = "COSTO DE TINTA";
-            // 
-            // simpleButton1
-            // 
-            simpleButton1.Location = new System.Drawing.Point(182, 366);
-            simpleButton1.Name = "simpleButton1";
-            simpleButton1.Size = new System.Drawing.Size(75, 23);
-            simpleButton1.TabIndex = 6;
-            simpleButton1.Text = "Guardar";
             // 
             // txtGloss
             // 
@@ -376,45 +408,13 @@
             labelControl1.TabIndex = 18;
             labelControl1.Text = "White:";
             // 
-            // labelControl13
+            // simpleButton1
             // 
-            labelControl13.Location = new System.Drawing.Point(14, 33);
-            labelControl13.Name = "labelControl13";
-            labelControl13.Size = new System.Drawing.Size(43, 13);
-            labelControl13.TabIndex = 18;
-            labelControl13.Text = "Ninguna:";
-            // 
-            // labelControl14
-            // 
-            labelControl14.Location = new System.Drawing.Point(14, 59);
-            labelControl14.Name = "labelControl14";
-            labelControl14.Size = new System.Drawing.Size(37, 13);
-            labelControl14.TabIndex = 19;
-            labelControl14.Text = "Normal:";
-            // 
-            // labelControl15
-            // 
-            labelControl15.Location = new System.Drawing.Point(14, 85);
-            labelControl15.Name = "labelControl15";
-            labelControl15.Size = new System.Drawing.Size(56, 13);
-            labelControl15.TabIndex = 20;
-            labelControl15.Text = "Normal 1/2:";
-            // 
-            // labelControl16
-            // 
-            labelControl16.Location = new System.Drawing.Point(14, 111);
-            labelControl16.Name = "labelControl16";
-            labelControl16.Size = new System.Drawing.Size(53, 13);
-            labelControl16.TabIndex = 21;
-            labelControl16.Text = "Power Full:";
-            // 
-            // labelControl17
-            // 
-            labelControl17.Location = new System.Drawing.Point(14, 137);
-            labelControl17.Name = "labelControl17";
-            labelControl17.Size = new System.Drawing.Size(38, 13);
-            labelControl17.TabIndex = 22;
-            labelControl17.Text = "Manual:";
+            simpleButton1.Location = new System.Drawing.Point(182, 366);
+            simpleButton1.Name = "simpleButton1";
+            simpleButton1.Size = new System.Drawing.Size(75, 23);
+            simpleButton1.TabIndex = 6;
+            simpleButton1.Text = "Guardar";
             // 
             // ConfigCotizacionesUV
             // 
