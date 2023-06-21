@@ -12,7 +12,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <EnableSecurityDebugging>false</EnableSecurityDebugging>
-    <_LastSelectedProfileId>C:\Users\USER\Source\Repos\SYSTEMTECNIPRINT\tecniprint\SimiSoft\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+    <_LastSelectedProfileId>C:\Users\USER\Source\Repos\SYSTEMTP\tecniprint\SimiSoft\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
     <Compile Update="ExtraerTextoImagen.cs">
