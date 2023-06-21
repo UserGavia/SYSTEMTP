@@ -84,6 +84,7 @@
   <ItemGroup>
     <Compile Include="Categorias.cs" />
     <Compile Include="Cliente.cs" />
+    <Compile Include="ConfigCotizazionUV.cs" />
     <Compile Include="FormaPago.cs" />
     <Compile Include="Misc.cs" />
     <Compile Include="Permisos.cs" />

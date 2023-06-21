@@ -38,8 +38,6 @@
             textEdit2 = new DevExpress.XtraEditors.TextEdit();
             groupControl5 = new DevExpress.XtraEditors.GroupControl();
             textEdit4 = new DevExpress.XtraEditors.TextEdit();
-            groupControl6 = new DevExpress.XtraEditors.GroupControl();
-            textEdit6 = new DevExpress.XtraEditors.TextEdit();
             groupControl7 = new DevExpress.XtraEditors.GroupControl();
             labelControl17 = new DevExpress.XtraEditors.LabelControl();
             labelControl16 = new DevExpress.XtraEditors.LabelControl();
@@ -80,9 +78,6 @@
             ((System.ComponentModel.ISupportInitialize)groupControl5).BeginInit();
             groupControl5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)textEdit4.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)groupControl6).BeginInit();
-            groupControl6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit6.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl7).BeginInit();
             groupControl7.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)textEdit11.Properties).BeginInit();
@@ -155,7 +150,7 @@
             // 
             groupControl4.Controls.Add(textEdit2);
             groupControl4.GroupStyle = DevExpress.Utils.GroupStyle.Light;
-            groupControl4.Location = new System.Drawing.Point(12, 307);
+            groupControl4.Location = new System.Drawing.Point(12, 248);
             groupControl4.Name = "groupControl4";
             groupControl4.Size = new System.Drawing.Size(206, 53);
             groupControl4.TabIndex = 3;
@@ -172,7 +167,7 @@
             // 
             groupControl5.Controls.Add(textEdit4);
             groupControl5.GroupStyle = DevExpress.Utils.GroupStyle.Light;
-            groupControl5.Location = new System.Drawing.Point(12, 248);
+            groupControl5.Location = new System.Drawing.Point(12, 189);
             groupControl5.Name = "groupControl5";
             groupControl5.Size = new System.Drawing.Size(206, 53);
             groupControl5.TabIndex = 4;
@@ -184,23 +179,6 @@
             textEdit4.Name = "textEdit4";
             textEdit4.Size = new System.Drawing.Size(100, 20);
             textEdit4.TabIndex = 10;
-            // 
-            // groupControl6
-            // 
-            groupControl6.Controls.Add(textEdit6);
-            groupControl6.GroupStyle = DevExpress.Utils.GroupStyle.Light;
-            groupControl6.Location = new System.Drawing.Point(12, 189);
-            groupControl6.Name = "groupControl6";
-            groupControl6.Size = new System.Drawing.Size(206, 53);
-            groupControl6.TabIndex = 5;
-            groupControl6.Text = "COSTO POR TIEMPO DE LIMPIEZA";
-            // 
-            // textEdit6
-            // 
-            textEdit6.Location = new System.Drawing.Point(58, 26);
-            textEdit6.Name = "textEdit6";
-            textEdit6.Size = new System.Drawing.Size(100, 20);
-            textEdit6.TabIndex = 12;
             // 
             // groupControl7
             // 
@@ -410,7 +388,11 @@
             // 
             // simpleButton1
             // 
+<<<<<<< HEAD
+            simpleButton1.Location = new System.Drawing.Point(12, 312);
+=======
             simpleButton1.Location = new System.Drawing.Point(182, 366);
+>>>>>>> 40e04ac2c7dfb17208fba7babf54db99c9d53878
             simpleButton1.Name = "simpleButton1";
             simpleButton1.Size = new System.Drawing.Size(75, 23);
             simpleButton1.TabIndex = 6;
@@ -420,11 +402,10 @@
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(437, 398);
+            ClientSize = new System.Drawing.Size(437, 371);
             Controls.Add(simpleButton1);
             Controls.Add(groupControl8);
             Controls.Add(groupControl7);
-            Controls.Add(groupControl6);
             Controls.Add(groupControl5);
             Controls.Add(groupControl4);
             Controls.Add(groupControl3);
@@ -448,9 +429,6 @@
             ((System.ComponentModel.ISupportInitialize)groupControl5).EndInit();
             groupControl5.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)textEdit4.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)groupControl6).EndInit();
-            groupControl6.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)textEdit6.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl7).EndInit();
             groupControl7.ResumeLayout(false);
             groupControl7.PerformLayout();
@@ -478,7 +456,6 @@
         private DevExpress.XtraEditors.GroupControl groupControl3;
         private DevExpress.XtraEditors.GroupControl groupControl4;
         private DevExpress.XtraEditors.GroupControl groupControl5;
-        private DevExpress.XtraEditors.GroupControl groupControl6;
         private DevExpress.XtraEditors.GroupControl groupControl7;
         private DevExpress.XtraEditors.GroupControl groupControl8;
         private DevExpress.XtraEditors.TextEdit textEdit1;
@@ -486,7 +463,6 @@
         private DevExpress.XtraEditors.TextEdit textEdit5;
         private DevExpress.XtraEditors.TextEdit textEdit2;
         private DevExpress.XtraEditors.TextEdit textEdit4;
-        private DevExpress.XtraEditors.TextEdit textEdit6;
         private DevExpress.XtraEditors.TextEdit textEdit11;
         private DevExpress.XtraEditors.TextEdit textEdit10;
         private DevExpress.XtraEditors.TextEdit textEdit9;
