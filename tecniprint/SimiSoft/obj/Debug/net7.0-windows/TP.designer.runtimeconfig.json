@@ -13,7 +13,7 @@
     ],
     "additionalProbingPaths": [
       "C:\\Users\\USER\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Usuario1\\.nuget\\packages",
+      "C:\\Users\\USER\\.nuget\\packages",
       "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],

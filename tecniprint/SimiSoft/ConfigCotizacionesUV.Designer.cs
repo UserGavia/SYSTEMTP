@@ -388,11 +388,7 @@
             // 
             // simpleButton1
             // 
-<<<<<<< HEAD
-            simpleButton1.Location = new System.Drawing.Point(12, 312);
-=======
-            simpleButton1.Location = new System.Drawing.Point(182, 366);
->>>>>>> 40e04ac2c7dfb17208fba7babf54db99c9d53878
+            simpleButton1.Location = new System.Drawing.Point(81, 312);
             simpleButton1.Name = "simpleButton1";
             simpleButton1.Size = new System.Drawing.Size(75, 23);
             simpleButton1.TabIndex = 6;
