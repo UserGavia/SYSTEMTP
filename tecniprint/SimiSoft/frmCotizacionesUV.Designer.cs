@@ -507,6 +507,7 @@
             // 
             cbTipoCotizacion.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             cbTipoCotizacion.FormattingEnabled = true;
+            cbTipoCotizacion.Items.AddRange(new object[] { "NUEVO", "RECOTIZACION" });
             cbTipoCotizacion.Location = new System.Drawing.Point(529, 22);
             cbTipoCotizacion.Name = "cbTipoCotizacion";
             cbTipoCotizacion.Size = new System.Drawing.Size(161, 21);
@@ -728,6 +729,7 @@
             // 
             comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "SI", "NO" });
             comboBox1.Location = new System.Drawing.Point(298, 21);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new System.Drawing.Size(121, 21);
@@ -776,6 +778,7 @@
             // 
             cbTipoLimpieza.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             cbTipoLimpieza.FormattingEnabled = true;
+            cbTipoLimpieza.Items.AddRange(new object[] { "NINGUNA", "NORMAL", "NORMAL 1/2", "POWER FULL", "MANUAL" });
             cbTipoLimpieza.Location = new System.Drawing.Point(86, 48);
             cbTipoLimpieza.Name = "cbTipoLimpieza";
             cbTipoLimpieza.Size = new System.Drawing.Size(121, 21);
@@ -793,6 +796,7 @@
             // 
             cbHotFix.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             cbHotFix.FormattingEnabled = true;
+            cbHotFix.Items.AddRange(new object[] { "SI", "NO" });
             cbHotFix.Location = new System.Drawing.Point(86, 21);
             cbHotFix.Name = "cbHotFix";
             cbHotFix.Size = new System.Drawing.Size(121, 21);
