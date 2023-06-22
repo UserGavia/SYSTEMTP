@@ -17,6 +17,12 @@ namespace TP
         public frmCotizacionesUV()
         {
             InitializeComponent();
+            txtWhite.Text = "0";
+            txtYellow.Text = "0";
+            txtMagenta.Text = "0";
+            txtBlack.Text = "0";
+            txtCyan.Text = "0";
+            txtGloss.Text = "0";
         }
 
         //Fecha y Hora en tiempo real
