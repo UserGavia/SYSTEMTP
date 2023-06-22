@@ -180,6 +180,21 @@ namespace TP
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             BorrarCamposExluyendo(this);
+            txtWhite.Text = "0";
+            txtYellow.Text = "0";
+            txtMagenta.Text = "0";
+            txtBlack.Text = "0";
+            txtCyan.Text = "0";
+            txtGloss.Text = "0";
+            txtLargo.Text = "0";
+            txtAncho.Text = "0";
+            txtTotalPares.Text = "0";
+            txtMinutoImpresion.Text = "0";
+            txtMinutoPloteado.Text = "0";
+            txtMinutoDepilado.Text = "0";
+            txtSegundoImpresion.Text = "0";
+            txtSegundoPloteado.Text = "0";
+            txtSegundoDepilado.Text = "0";
         }
 
         public void BorrarCamposExluyendo(Control control)
@@ -221,6 +236,22 @@ namespace TP
             BorrarCampos(this);
 
             txtCodigo.Text = string.Format("{0}", DateTime.Now.ToString("ddMMyyyyHHmmss"));
+
+            txtWhite.Text = "0";
+            txtYellow.Text = "0";
+            txtMagenta.Text = "0";
+            txtBlack.Text = "0";
+            txtCyan.Text = "0";
+            txtGloss.Text = "0";
+            txtLargo.Text = "0";
+            txtAncho.Text = "0";
+            txtTotalPares.Text = "0";
+            txtMinutoImpresion.Text = "0";
+            txtMinutoPloteado.Text = "0";
+            txtMinutoDepilado.Text = "0";
+            txtSegundoImpresion.Text = "0";
+            txtSegundoPloteado.Text = "0";
+            txtSegundoDepilado.Text = "0";
         }
 
         private void btnCliente_Click(object sender, EventArgs e)
