@@ -71,7 +71,7 @@ namespace SimiSoft
                     return;
                 }
 
-            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Clientes...");
+            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Cotizaciones UV...");
 
             new frmCotizacionesUV() { MdiParent = this }.Show();
 
@@ -128,7 +128,7 @@ namespace SimiSoft
                     return;
                 }
 
-            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Roles...");
+            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Asignar Permisos de Roles...");
 
             new frmAsignarPermisosRol() { MdiParent = this }.Show();
 
@@ -147,7 +147,7 @@ namespace SimiSoft
                     return;
                 }
 
-            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Roles...");
+            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Usuarios...");
 
             new frmUsuarios() { MdiParent = this }.Show();
 
@@ -166,7 +166,7 @@ namespace SimiSoft
                     return;
                 }
 
-            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Roles...");
+            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Ventas...");
 
             new frmVenta() { MdiParent = this }.Show();
 
@@ -185,7 +185,7 @@ namespace SimiSoft
                     return;
                 }
 
-            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Roles...");
+            SplashScreenManager.ShowDefaultWaitForm("Por favor espere", "Cargado Categorias...");
 
             new frmCategorias() { MdiParent = this }.Show();
 

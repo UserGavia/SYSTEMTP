@@ -286,6 +286,7 @@
             txtCostLimManual.Properties.MaskSettings.Set("mask", "f2");
             txtCostLimManual.Properties.MaskSettings.Set("culture", "es-MX");
             txtCostLimManual.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostLimManual.Properties.UseMaskAsDisplayFormat = true;
             txtCostLimManual.Size = new System.Drawing.Size(100, 20);
             txtCostLimManual.TabIndex = 16;
             // 
@@ -319,6 +320,12 @@
             txtCostLimNing.Enabled = false;
             txtCostLimNing.Location = new System.Drawing.Point(77, 30);
             txtCostLimNing.Name = "txtCostLimNing";
+            txtCostLimNing.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostLimNing.Properties.MaskSettings.Set("MaskManagerSignature", "allowNull=False");
+            txtCostLimNing.Properties.MaskSettings.Set("mask", "f2");
+            txtCostLimNing.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostLimNing.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostLimNing.Properties.UseMaskAsDisplayFormat = true;
             txtCostLimNing.Size = new System.Drawing.Size(100, 20);
             txtCostLimNing.TabIndex = 13;
             // 
