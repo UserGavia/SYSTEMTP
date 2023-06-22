@@ -47,7 +47,24 @@ namespace TP
             DataGridViewRow row = dgvImpresionUV.Rows[indice_fila];
 
             row.Cells["CantidadPares"].Value = txtTotalPares.Text;
-            row.Cells["CantidadImpares"].Value = "";
+            // Obtener el valor de CantidadPares
+            int cantidadPares;
+            if (int.TryParse(txtTotalPares.Text, out cantidadPares))
+            {
+                // Calcular el doble de CantidadPares
+                int cantidadImpares = cantidadPares * 2;
+
+                // Buscar la celda de la columna CantidadImpares
+                DataGridViewCell cantidadImparesCell = row.Cells["CantidadImpares"];
+
+                // Asignar el valor en la celda de la columna CantidadImpares
+                cantidadImparesCell.Value = cantidadImpares;
+            }
+            else
+            {
+                // Manejo de error si el valor de txtTotalPares.Text no es válido
+            }
+            //row.Cells["CantidadImpares"].Value = "";
             row.Cells["Descripcion"].Value = txtEstilo.Text;
             row.Cells["Largo"].Value = txtLargo.Text;
             row.Cells["Ancho"].Value = txtAncho.Text;
@@ -76,13 +93,33 @@ namespace TP
             txtCodigo.Text = string.Format("{0}", DateTime.Now.ToString("ddMMyyyyHHmmss"));
 
             dgvImpresionUV.Columns.Add("CantidadPares", "CantidadPares");
-            dgvImpresionUV.Columns.Add("CantidadImpares", "CantidadImpares");
+            dgvImpresionUV.Columns.Add("Pzs", "Pzs");
             dgvImpresionUV.Columns.Add("Descripcion", "Descripcion");
             dgvImpresionUV.Columns.Add("Largo", "Largo");
             dgvImpresionUV.Columns.Add("Ancho", "Ancho");
             dgvImpresionUV.Columns.Add("PrecioUnitario", "PrecioUnitario");
             dgvImpresionUV.Columns.Add("PrecioTotal", "PrecioTotal");
             dgvImpresionUV.Columns.Add("Descuento", "Descuento");
+        }
+
+        // Crea una clase personalizada que extienda PdfPageEventHelper
+        public class HeaderFooterEvent : PdfPageEventHelper
+        {
+            private iTextSharp.text.Image logo;
+
+            public HeaderFooterEvent(iTextSharp.text.Image logo)
+            {
+                this.logo = logo;
+            }
+
+            public override void OnStartPage(PdfWriter writer, Document document)
+            {
+                // Agrega la imagen al encabezado
+                PdfPTable headerTable = new PdfPTable(1);
+                headerTable.DefaultCell.Border = iTextSharp.text.Rectangle.NO_BORDER;
+                headerTable.AddCell(new PdfPCell(logo) { Border = iTextSharp.text.Rectangle.NO_BORDER, HorizontalAlignment = Element.ALIGN_CENTER });
+                document.Add(headerTable);
+            }
         }
 
         private void btnGenerarPDF_Click(object sender, EventArgs e)
@@ -112,6 +149,20 @@ namespace TP
                 // Crea un objeto PdfWriter para escribir en el archivo PDF
                 PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(outputPath, FileMode.Create));
 
+                // Carga la imagen deseada
+                iTextSharp.text.Image logo = iTextSharp.text.Image.GetInstance("C://Users/USER/Pictures/TECNIPRINT1.jpg");
+
+                // Ajusta el tamaño y la posición de la imagen
+                logo.ScaleToFit(100f, 100f);
+                logo.Alignment = iTextSharp.text.Image.ALIGN_CENTER;
+
+                // Crea una instancia de la clase personalizada HeaderFooterEvent
+                HeaderFooterEvent eventHelper = new HeaderFooterEvent(logo);
+
+                // Establece el evento personalizado en el escritor
+                writer.PageEvent = eventHelper;
+
+
                 // Abre el documento para escribir contenido
                 doc.Open();
 
@@ -128,6 +179,11 @@ namespace TP
                 // Agrega información de la fecha
                 Paragraph fechaParagraph = new Paragraph("Fecha: " + lblFechaActual.Text);
                 doc.Add(fechaParagraph);
+
+
+                // Salto Linea
+                Paragraph saltoLineaParagraph = new Paragraph("\n");
+                doc.Add(saltoLineaParagraph);
 
                 // Agrega el DataGridView como una tabla
                 PdfPTable table = new PdfPTable(dgvImpresionUV.Columns.Count);
@@ -163,6 +219,9 @@ namespace TP
                 }
                 // Agrega la tabla al documento
                 doc.Add(table);
+
+                // Salto linea
+                doc.Add(saltoLineaParagraph);
 
                 // Cierra el documento
                 doc.Close();
