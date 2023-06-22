@@ -30,8 +30,8 @@ namespace TP
             txtMinutoPloteado.Text = "0";
             txtMinutoDepilado.Text = "0";
             txtSegundoImpresion.Text = "0";
-            txtSegundoPloteado.Text= "0";
-            txtSegundoDepilado.Text= "0";
+            txtSegundoPloteado.Text = "0";
+            txtSegundoDepilado.Text = "0";
         }
 
         //Fecha y Hora en tiempo real
