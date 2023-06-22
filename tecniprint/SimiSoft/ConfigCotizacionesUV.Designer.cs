@@ -63,6 +63,7 @@
             labelControl2 = new DevExpress.XtraEditors.LabelControl();
             labelControl1 = new DevExpress.XtraEditors.LabelControl();
             simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)groupControl1).BeginInit();
             groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)textEdit1.Properties).BeginInit();
@@ -388,17 +389,27 @@
             // 
             // simpleButton1
             // 
-            simpleButton1.Location = new System.Drawing.Point(81, 312);
+            simpleButton1.Location = new System.Drawing.Point(12, 312);
             simpleButton1.Name = "simpleButton1";
             simpleButton1.Size = new System.Drawing.Size(75, 23);
             simpleButton1.TabIndex = 6;
             simpleButton1.Text = "Guardar";
+            // 
+            // simpleButton2
+            // 
+            simpleButton2.Location = new System.Drawing.Point(143, 312);
+            simpleButton2.Name = "simpleButton2";
+            simpleButton2.Size = new System.Drawing.Size(75, 23);
+            simpleButton2.TabIndex = 7;
+            simpleButton2.Text = "Cancelar";
+            simpleButton2.Click += simpleButton2_Click;
             // 
             // ConfigCotizacionesUV
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(437, 371);
+            Controls.Add(simpleButton2);
             Controls.Add(simpleButton1);
             Controls.Add(groupControl8);
             Controls.Add(groupControl7);
@@ -482,5 +493,6 @@
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.LabelControl labelControl1;
+        private DevExpress.XtraEditors.SimpleButton simpleButton2;
     }
 }

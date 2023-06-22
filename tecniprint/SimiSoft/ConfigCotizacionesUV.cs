@@ -22,5 +22,10 @@ namespace TP
         {
 
         }
+
+        private void simpleButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
