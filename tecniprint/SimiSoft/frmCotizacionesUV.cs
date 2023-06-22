@@ -23,6 +23,15 @@ namespace TP
             txtBlack.Text = "0";
             txtCyan.Text = "0";
             txtGloss.Text = "0";
+            txtLargo.Text = "0";
+            txtAncho.Text = "0";
+            txtTotalPares.Text = "0";
+            txtMinutoImpresion.Text = "0";
+            txtMinutoPloteado.Text = "0";
+            txtMinutoDepilado.Text = "0";
+            txtSegundoImpresion.Text = "0";
+            txtSegundoPloteado.Text= "0";
+            txtSegundoDepilado.Text= "0";
         }
 
         //Fecha y Hora en tiempo real

@@ -237,12 +237,12 @@
             txtGloss.Location = new System.Drawing.Point(66, 153);
             txtGloss.Name = "txtGloss";
             txtGloss.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            txtGloss.Properties.MaskSettings.Set("mask", "f");
+            txtGloss.Properties.MaskSettings.Set("mask", "f2");
             txtGloss.Properties.MaskSettings.Set("culture", "es-MX");
             txtGloss.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
             txtGloss.Properties.MaskSettings.Set("valueType", null);
-            txtGloss.Properties.MaskSettings.Set("hideInsignificantZeros", true);
-            txtGloss.Properties.MaskSettings.Set("autoHideDecimalSeparator", true);
+            txtGloss.Properties.MaskSettings.Set("hideInsignificantZeros", null);
+            txtGloss.Properties.MaskSettings.Set("autoHideDecimalSeparator", null);
             txtGloss.Properties.UseMaskAsDisplayFormat = true;
             txtGloss.Size = new System.Drawing.Size(115, 20);
             txtGloss.TabIndex = 15;
@@ -252,12 +252,12 @@
             txtCyan.Location = new System.Drawing.Point(66, 127);
             txtCyan.Name = "txtCyan";
             txtCyan.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            txtCyan.Properties.MaskSettings.Set("mask", "f");
+            txtCyan.Properties.MaskSettings.Set("mask", "f2");
             txtCyan.Properties.MaskSettings.Set("culture", "es-MX");
             txtCyan.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
             txtCyan.Properties.MaskSettings.Set("valueType", null);
-            txtCyan.Properties.MaskSettings.Set("hideInsignificantZeros", true);
-            txtCyan.Properties.MaskSettings.Set("autoHideDecimalSeparator", true);
+            txtCyan.Properties.MaskSettings.Set("hideInsignificantZeros", null);
+            txtCyan.Properties.MaskSettings.Set("autoHideDecimalSeparator", null);
             txtCyan.Properties.UseMaskAsDisplayFormat = true;
             txtCyan.Size = new System.Drawing.Size(115, 20);
             txtCyan.TabIndex = 14;
@@ -267,12 +267,12 @@
             txtBlack.Location = new System.Drawing.Point(66, 101);
             txtBlack.Name = "txtBlack";
             txtBlack.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            txtBlack.Properties.MaskSettings.Set("mask", "f");
+            txtBlack.Properties.MaskSettings.Set("mask", "f2");
             txtBlack.Properties.MaskSettings.Set("culture", "es-MX");
             txtBlack.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
             txtBlack.Properties.MaskSettings.Set("valueType", null);
-            txtBlack.Properties.MaskSettings.Set("autoHideDecimalSeparator", true);
-            txtBlack.Properties.MaskSettings.Set("hideInsignificantZeros", true);
+            txtBlack.Properties.MaskSettings.Set("autoHideDecimalSeparator", null);
+            txtBlack.Properties.MaskSettings.Set("hideInsignificantZeros", null);
             txtBlack.Properties.UseMaskAsDisplayFormat = true;
             txtBlack.Size = new System.Drawing.Size(115, 20);
             txtBlack.TabIndex = 13;
@@ -282,12 +282,12 @@
             txtMagenta.Location = new System.Drawing.Point(66, 75);
             txtMagenta.Name = "txtMagenta";
             txtMagenta.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            txtMagenta.Properties.MaskSettings.Set("mask", "f");
+            txtMagenta.Properties.MaskSettings.Set("mask", "f2");
             txtMagenta.Properties.MaskSettings.Set("culture", "es-MX");
             txtMagenta.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
             txtMagenta.Properties.MaskSettings.Set("valueType", null);
-            txtMagenta.Properties.MaskSettings.Set("autoHideDecimalSeparator", true);
-            txtMagenta.Properties.MaskSettings.Set("hideInsignificantZeros", true);
+            txtMagenta.Properties.MaskSettings.Set("autoHideDecimalSeparator", null);
+            txtMagenta.Properties.MaskSettings.Set("hideInsignificantZeros", null);
             txtMagenta.Properties.UseMaskAsDisplayFormat = true;
             txtMagenta.Size = new System.Drawing.Size(115, 20);
             txtMagenta.TabIndex = 12;
@@ -297,12 +297,12 @@
             txtYellow.Location = new System.Drawing.Point(66, 49);
             txtYellow.Name = "txtYellow";
             txtYellow.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            txtYellow.Properties.MaskSettings.Set("mask", "f");
+            txtYellow.Properties.MaskSettings.Set("mask", "f2");
             txtYellow.Properties.MaskSettings.Set("culture", "es-MX");
             txtYellow.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
             txtYellow.Properties.MaskSettings.Set("valueType", null);
-            txtYellow.Properties.MaskSettings.Set("hideInsignificantZeros", true);
-            txtYellow.Properties.MaskSettings.Set("autoHideDecimalSeparator", true);
+            txtYellow.Properties.MaskSettings.Set("hideInsignificantZeros", null);
+            txtYellow.Properties.MaskSettings.Set("autoHideDecimalSeparator", null);
             txtYellow.Properties.UseMaskAsDisplayFormat = true;
             txtYellow.Size = new System.Drawing.Size(115, 20);
             txtYellow.TabIndex = 11;
@@ -385,6 +385,12 @@
             // 
             txtSegundoImpresion.Location = new System.Drawing.Point(75, 49);
             txtSegundoImpresion.Name = "txtSegundoImpresion";
+            txtSegundoImpresion.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtSegundoImpresion.Properties.MaskSettings.Set("mask", "d");
+            txtSegundoImpresion.Properties.MaskSettings.Set("culture", "es-MX");
+            txtSegundoImpresion.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtSegundoImpresion.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtSegundoImpresion.Properties.UseMaskAsDisplayFormat = true;
             txtSegundoImpresion.Size = new System.Drawing.Size(100, 20);
             txtSegundoImpresion.TabIndex = 5;
             // 
@@ -392,6 +398,12 @@
             // 
             txtMinutoImpresion.Location = new System.Drawing.Point(73, 23);
             txtMinutoImpresion.Name = "txtMinutoImpresion";
+            txtMinutoImpresion.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtMinutoImpresion.Properties.MaskSettings.Set("mask", "d");
+            txtMinutoImpresion.Properties.MaskSettings.Set("culture", "es-MX");
+            txtMinutoImpresion.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtMinutoImpresion.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtMinutoImpresion.Properties.UseMaskAsDisplayFormat = true;
             txtMinutoImpresion.Size = new System.Drawing.Size(100, 20);
             txtMinutoImpresion.TabIndex = 4;
             // 
@@ -428,6 +440,12 @@
             // 
             txtSegundoPloteado.Location = new System.Drawing.Point(75, 49);
             txtSegundoPloteado.Name = "txtSegundoPloteado";
+            txtSegundoPloteado.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtSegundoPloteado.Properties.MaskSettings.Set("mask", "d");
+            txtSegundoPloteado.Properties.MaskSettings.Set("culture", "es-MX");
+            txtSegundoPloteado.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtSegundoPloteado.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtSegundoPloteado.Properties.UseMaskAsDisplayFormat = true;
             txtSegundoPloteado.Size = new System.Drawing.Size(100, 20);
             txtSegundoPloteado.TabIndex = 7;
             // 
@@ -435,6 +453,12 @@
             // 
             txtMinutoPloteado.Location = new System.Drawing.Point(73, 23);
             txtMinutoPloteado.Name = "txtMinutoPloteado";
+            txtMinutoPloteado.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtMinutoPloteado.Properties.MaskSettings.Set("mask", "d");
+            txtMinutoPloteado.Properties.MaskSettings.Set("culture", "es-MX");
+            txtMinutoPloteado.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtMinutoPloteado.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtMinutoPloteado.Properties.UseMaskAsDisplayFormat = true;
             txtMinutoPloteado.Size = new System.Drawing.Size(100, 20);
             txtMinutoPloteado.TabIndex = 6;
             // 
@@ -471,6 +495,12 @@
             // 
             txtSegundoDepilado.Location = new System.Drawing.Point(73, 49);
             txtSegundoDepilado.Name = "txtSegundoDepilado";
+            txtSegundoDepilado.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtSegundoDepilado.Properties.MaskSettings.Set("mask", "d");
+            txtSegundoDepilado.Properties.MaskSettings.Set("culture", "es-MX");
+            txtSegundoDepilado.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtSegundoDepilado.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtSegundoDepilado.Properties.UseMaskAsDisplayFormat = true;
             txtSegundoDepilado.Size = new System.Drawing.Size(100, 20);
             txtSegundoDepilado.TabIndex = 9;
             // 
@@ -478,6 +508,12 @@
             // 
             txtMinutoDepilado.Location = new System.Drawing.Point(73, 23);
             txtMinutoDepilado.Name = "txtMinutoDepilado";
+            txtMinutoDepilado.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtMinutoDepilado.Properties.MaskSettings.Set("mask", "d");
+            txtMinutoDepilado.Properties.MaskSettings.Set("culture", "es-MX");
+            txtMinutoDepilado.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtMinutoDepilado.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtMinutoDepilado.Properties.UseMaskAsDisplayFormat = true;
             txtMinutoDepilado.Size = new System.Drawing.Size(100, 20);
             txtMinutoDepilado.TabIndex = 8;
             // 
@@ -665,6 +701,11 @@
             // 
             txtLargo.Location = new System.Drawing.Point(55, 49);
             txtLargo.Name = "txtLargo";
+            txtLargo.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtLargo.Properties.MaskSettings.Set("mask", "f2");
+            txtLargo.Properties.MaskSettings.Set("culture", "es-MX");
+            txtLargo.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtLargo.Properties.UseMaskAsDisplayFormat = true;
             txtLargo.Size = new System.Drawing.Size(80, 20);
             txtLargo.TabIndex = 17;
             // 
@@ -672,6 +713,11 @@
             // 
             txtAncho.Location = new System.Drawing.Point(55, 75);
             txtAncho.Name = "txtAncho";
+            txtAncho.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtAncho.Properties.MaskSettings.Set("mask", "f2");
+            txtAncho.Properties.MaskSettings.Set("culture", "es-MX");
+            txtAncho.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtAncho.Properties.UseMaskAsDisplayFormat = true;
             txtAncho.Size = new System.Drawing.Size(80, 20);
             txtAncho.TabIndex = 18;
             // 
@@ -801,6 +847,12 @@
             // 
             txtTotalPares.Location = new System.Drawing.Point(86, 75);
             txtTotalPares.Name = "txtTotalPares";
+            txtTotalPares.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtTotalPares.Properties.MaskSettings.Set("mask", "d");
+            txtTotalPares.Properties.MaskSettings.Set("culture", "es-MX");
+            txtTotalPares.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtTotalPares.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtTotalPares.Properties.UseMaskAsDisplayFormat = true;
             txtTotalPares.Size = new System.Drawing.Size(121, 20);
             txtTotalPares.TabIndex = 21;
             // 
