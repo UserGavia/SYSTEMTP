@@ -16,6 +16,22 @@ namespace TP
         public ConfigCotizacionesUV()
         {
             InitializeComponent();
+            txtCostTiemImp.Text = "0";
+            txtCostTiemPlot.Text = "0";
+            txtCostTiemDepi.Text = "0";
+            txtCostTrans.Text = "0";
+            txtCostHotFix.Text = "0";
+            txtCostLimNing.Text = "0";
+            txtCostLimNorm.Text = "0";
+            txtCostLimNormMed.Text = "0";
+            txtCostLimPowFull.Text = "0";
+            txtCostLimManual.Text = "0";
+            txtWhite.Text = "0";
+            txtYellow.Text = "0";
+            txtMagenta.Text = "0";
+            txtBlack.Text = "0";
+            txtCyan.Text = "0";
+            txtGloss.Text = "0";
         }
 
         private void groupControl7_Paint(object sender, PaintEventArgs e)

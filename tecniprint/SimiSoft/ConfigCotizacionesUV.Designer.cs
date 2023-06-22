@@ -29,26 +29,26 @@
         private void InitializeComponent()
         {
             groupControl1 = new DevExpress.XtraEditors.GroupControl();
-            textEdit1 = new DevExpress.XtraEditors.TextEdit();
+            txtCostTiemImp = new DevExpress.XtraEditors.TextEdit();
             groupControl2 = new DevExpress.XtraEditors.GroupControl();
-            textEdit3 = new DevExpress.XtraEditors.TextEdit();
+            txtCostTiemPlot = new DevExpress.XtraEditors.TextEdit();
             groupControl3 = new DevExpress.XtraEditors.GroupControl();
-            textEdit5 = new DevExpress.XtraEditors.TextEdit();
+            txtCostTiemDepi = new DevExpress.XtraEditors.TextEdit();
             groupControl4 = new DevExpress.XtraEditors.GroupControl();
-            textEdit2 = new DevExpress.XtraEditors.TextEdit();
+            txtCostHotFix = new DevExpress.XtraEditors.TextEdit();
             groupControl5 = new DevExpress.XtraEditors.GroupControl();
-            textEdit4 = new DevExpress.XtraEditors.TextEdit();
+            txtCostTrans = new DevExpress.XtraEditors.TextEdit();
             groupControl7 = new DevExpress.XtraEditors.GroupControl();
             labelControl17 = new DevExpress.XtraEditors.LabelControl();
             labelControl16 = new DevExpress.XtraEditors.LabelControl();
             labelControl15 = new DevExpress.XtraEditors.LabelControl();
             labelControl14 = new DevExpress.XtraEditors.LabelControl();
             labelControl13 = new DevExpress.XtraEditors.LabelControl();
-            textEdit11 = new DevExpress.XtraEditors.TextEdit();
-            textEdit10 = new DevExpress.XtraEditors.TextEdit();
-            textEdit9 = new DevExpress.XtraEditors.TextEdit();
-            textEdit8 = new DevExpress.XtraEditors.TextEdit();
-            textEdit7 = new DevExpress.XtraEditors.TextEdit();
+            txtCostLimNorm = new DevExpress.XtraEditors.TextEdit();
+            txtCostLimManual = new DevExpress.XtraEditors.TextEdit();
+            txtCostLimPowFull = new DevExpress.XtraEditors.TextEdit();
+            txtCostLimNormMed = new DevExpress.XtraEditors.TextEdit();
+            txtCostLimNing = new DevExpress.XtraEditors.TextEdit();
             groupControl8 = new DevExpress.XtraEditors.GroupControl();
             txtGloss = new DevExpress.XtraEditors.TextEdit();
             txtCyan = new DevExpress.XtraEditors.TextEdit();
@@ -66,26 +66,26 @@
             simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)groupControl1).BeginInit();
             groupControl1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit1.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTiemImp.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl2).BeginInit();
             groupControl2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit3.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTiemPlot.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl3).BeginInit();
             groupControl3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit5.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTiemDepi.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl4).BeginInit();
             groupControl4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit2.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostHotFix.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl5).BeginInit();
             groupControl5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit4.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTrans.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl7).BeginInit();
             groupControl7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit11.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit10.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit9.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit8.Properties).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit7.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimNorm.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimManual.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimPowFull.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimNormMed.Properties).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimNing.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)groupControl8).BeginInit();
             groupControl8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)txtGloss.Properties).BeginInit();
@@ -98,7 +98,7 @@
             // 
             // groupControl1
             // 
-            groupControl1.Controls.Add(textEdit1);
+            groupControl1.Controls.Add(txtCostTiemImp);
             groupControl1.GroupStyle = DevExpress.Utils.GroupStyle.Light;
             groupControl1.Location = new System.Drawing.Point(12, 12);
             groupControl1.Name = "groupControl1";
@@ -106,21 +106,21 @@
             groupControl1.TabIndex = 0;
             groupControl1.Text = "COSTO POR TIEMPO DE IMPRESION";
             // 
-            // textEdit1
+            // txtCostTiemImp
             // 
-            textEdit1.Location = new System.Drawing.Point(58, 26);
-            textEdit1.Name = "textEdit1";
-            textEdit1.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit1.Properties.MaskSettings.Set("mask", "f2");
-            textEdit1.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit1.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit1.Properties.UseMaskAsDisplayFormat = true;
-            textEdit1.Size = new System.Drawing.Size(100, 20);
-            textEdit1.TabIndex = 7;
+            txtCostTiemImp.Location = new System.Drawing.Point(58, 26);
+            txtCostTiemImp.Name = "txtCostTiemImp";
+            txtCostTiemImp.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostTiemImp.Properties.MaskSettings.Set("mask", "f2");
+            txtCostTiemImp.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostTiemImp.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostTiemImp.Properties.UseMaskAsDisplayFormat = true;
+            txtCostTiemImp.Size = new System.Drawing.Size(100, 20);
+            txtCostTiemImp.TabIndex = 7;
             // 
             // groupControl2
             // 
-            groupControl2.Controls.Add(textEdit3);
+            groupControl2.Controls.Add(txtCostTiemPlot);
             groupControl2.GroupStyle = DevExpress.Utils.GroupStyle.Light;
             groupControl2.Location = new System.Drawing.Point(12, 71);
             groupControl2.Name = "groupControl2";
@@ -128,21 +128,21 @@
             groupControl2.TabIndex = 1;
             groupControl2.Text = "COSTO POR TIEMPO DE PLOTEADO";
             // 
-            // textEdit3
+            // txtCostTiemPlot
             // 
-            textEdit3.Location = new System.Drawing.Point(58, 26);
-            textEdit3.Name = "textEdit3";
-            textEdit3.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit3.Properties.MaskSettings.Set("mask", "f2");
-            textEdit3.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit3.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit3.Properties.UseMaskAsDisplayFormat = true;
-            textEdit3.Size = new System.Drawing.Size(100, 20);
-            textEdit3.TabIndex = 9;
+            txtCostTiemPlot.Location = new System.Drawing.Point(58, 26);
+            txtCostTiemPlot.Name = "txtCostTiemPlot";
+            txtCostTiemPlot.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostTiemPlot.Properties.MaskSettings.Set("mask", "f2");
+            txtCostTiemPlot.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostTiemPlot.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostTiemPlot.Properties.UseMaskAsDisplayFormat = true;
+            txtCostTiemPlot.Size = new System.Drawing.Size(100, 20);
+            txtCostTiemPlot.TabIndex = 9;
             // 
             // groupControl3
             // 
-            groupControl3.Controls.Add(textEdit5);
+            groupControl3.Controls.Add(txtCostTiemDepi);
             groupControl3.GroupStyle = DevExpress.Utils.GroupStyle.Light;
             groupControl3.Location = new System.Drawing.Point(12, 130);
             groupControl3.Name = "groupControl3";
@@ -150,21 +150,21 @@
             groupControl3.TabIndex = 2;
             groupControl3.Text = "COSTO POR TIEMPO DE DEPILADO";
             // 
-            // textEdit5
+            // txtCostTiemDepi
             // 
-            textEdit5.Location = new System.Drawing.Point(58, 28);
-            textEdit5.Name = "textEdit5";
-            textEdit5.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit5.Properties.MaskSettings.Set("mask", "f2");
-            textEdit5.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit5.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit5.Properties.UseMaskAsDisplayFormat = true;
-            textEdit5.Size = new System.Drawing.Size(100, 20);
-            textEdit5.TabIndex = 11;
+            txtCostTiemDepi.Location = new System.Drawing.Point(58, 28);
+            txtCostTiemDepi.Name = "txtCostTiemDepi";
+            txtCostTiemDepi.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostTiemDepi.Properties.MaskSettings.Set("mask", "f2");
+            txtCostTiemDepi.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostTiemDepi.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostTiemDepi.Properties.UseMaskAsDisplayFormat = true;
+            txtCostTiemDepi.Size = new System.Drawing.Size(100, 20);
+            txtCostTiemDepi.TabIndex = 11;
             // 
             // groupControl4
             // 
-            groupControl4.Controls.Add(textEdit2);
+            groupControl4.Controls.Add(txtCostHotFix);
             groupControl4.GroupStyle = DevExpress.Utils.GroupStyle.Light;
             groupControl4.Location = new System.Drawing.Point(12, 248);
             groupControl4.Name = "groupControl4";
@@ -172,21 +172,21 @@
             groupControl4.TabIndex = 3;
             groupControl4.Text = "COSTO POR HOT-FIX";
             // 
-            // textEdit2
+            // txtCostHotFix
             // 
-            textEdit2.Location = new System.Drawing.Point(58, 28);
-            textEdit2.Name = "textEdit2";
-            textEdit2.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit2.Properties.MaskSettings.Set("mask", "f2");
-            textEdit2.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit2.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit2.Properties.UseMaskAsDisplayFormat = true;
-            textEdit2.Size = new System.Drawing.Size(100, 20);
-            textEdit2.TabIndex = 8;
+            txtCostHotFix.Location = new System.Drawing.Point(58, 28);
+            txtCostHotFix.Name = "txtCostHotFix";
+            txtCostHotFix.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostHotFix.Properties.MaskSettings.Set("mask", "f2");
+            txtCostHotFix.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostHotFix.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostHotFix.Properties.UseMaskAsDisplayFormat = true;
+            txtCostHotFix.Size = new System.Drawing.Size(100, 20);
+            txtCostHotFix.TabIndex = 8;
             // 
             // groupControl5
             // 
-            groupControl5.Controls.Add(textEdit4);
+            groupControl5.Controls.Add(txtCostTrans);
             groupControl5.GroupStyle = DevExpress.Utils.GroupStyle.Light;
             groupControl5.Location = new System.Drawing.Point(12, 189);
             groupControl5.Name = "groupControl5";
@@ -194,17 +194,17 @@
             groupControl5.TabIndex = 4;
             groupControl5.Text = "COSTO POR TRANSPORTADOR";
             // 
-            // textEdit4
+            // txtCostTrans
             // 
-            textEdit4.Location = new System.Drawing.Point(58, 26);
-            textEdit4.Name = "textEdit4";
-            textEdit4.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit4.Properties.MaskSettings.Set("mask", "f2");
-            textEdit4.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit4.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit4.Properties.UseMaskAsDisplayFormat = true;
-            textEdit4.Size = new System.Drawing.Size(100, 20);
-            textEdit4.TabIndex = 10;
+            txtCostTrans.Location = new System.Drawing.Point(58, 26);
+            txtCostTrans.Name = "txtCostTrans";
+            txtCostTrans.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostTrans.Properties.MaskSettings.Set("mask", "f2");
+            txtCostTrans.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostTrans.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostTrans.Properties.UseMaskAsDisplayFormat = true;
+            txtCostTrans.Size = new System.Drawing.Size(100, 20);
+            txtCostTrans.TabIndex = 10;
             // 
             // groupControl7
             // 
@@ -213,11 +213,11 @@
             groupControl7.Controls.Add(labelControl15);
             groupControl7.Controls.Add(labelControl14);
             groupControl7.Controls.Add(labelControl13);
-            groupControl7.Controls.Add(textEdit11);
-            groupControl7.Controls.Add(textEdit10);
-            groupControl7.Controls.Add(textEdit9);
-            groupControl7.Controls.Add(textEdit8);
-            groupControl7.Controls.Add(textEdit7);
+            groupControl7.Controls.Add(txtCostLimNorm);
+            groupControl7.Controls.Add(txtCostLimManual);
+            groupControl7.Controls.Add(txtCostLimPowFull);
+            groupControl7.Controls.Add(txtCostLimNormMed);
+            groupControl7.Controls.Add(txtCostLimNing);
             groupControl7.GroupStyle = DevExpress.Utils.GroupStyle.Light;
             groupControl7.Location = new System.Drawing.Point(224, 12);
             groupControl7.Name = "groupControl7";
@@ -266,61 +266,61 @@
             labelControl13.TabIndex = 18;
             labelControl13.Text = "Ninguna:";
             // 
-            // textEdit11
+            // txtCostLimNorm
             // 
-            textEdit11.Location = new System.Drawing.Point(77, 56);
-            textEdit11.Name = "textEdit11";
-            textEdit11.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit11.Properties.MaskSettings.Set("mask", "f2");
-            textEdit11.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit11.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit11.Properties.UseMaskAsDisplayFormat = true;
-            textEdit11.Size = new System.Drawing.Size(100, 20);
-            textEdit11.TabIndex = 17;
+            txtCostLimNorm.Location = new System.Drawing.Point(77, 56);
+            txtCostLimNorm.Name = "txtCostLimNorm";
+            txtCostLimNorm.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostLimNorm.Properties.MaskSettings.Set("mask", "f2");
+            txtCostLimNorm.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostLimNorm.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostLimNorm.Properties.UseMaskAsDisplayFormat = true;
+            txtCostLimNorm.Size = new System.Drawing.Size(100, 20);
+            txtCostLimNorm.TabIndex = 17;
             // 
-            // textEdit10
+            // txtCostLimManual
             // 
-            textEdit10.Location = new System.Drawing.Point(77, 134);
-            textEdit10.Name = "textEdit10";
-            textEdit10.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit10.Properties.MaskSettings.Set("mask", "f2");
-            textEdit10.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit10.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit10.Size = new System.Drawing.Size(100, 20);
-            textEdit10.TabIndex = 16;
+            txtCostLimManual.Location = new System.Drawing.Point(77, 134);
+            txtCostLimManual.Name = "txtCostLimManual";
+            txtCostLimManual.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostLimManual.Properties.MaskSettings.Set("mask", "f2");
+            txtCostLimManual.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostLimManual.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostLimManual.Size = new System.Drawing.Size(100, 20);
+            txtCostLimManual.TabIndex = 16;
             // 
-            // textEdit9
+            // txtCostLimPowFull
             // 
-            textEdit9.Location = new System.Drawing.Point(77, 108);
-            textEdit9.Name = "textEdit9";
-            textEdit9.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit9.Properties.MaskSettings.Set("mask", "f2");
-            textEdit9.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit9.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit9.Properties.UseMaskAsDisplayFormat = true;
-            textEdit9.Size = new System.Drawing.Size(100, 20);
-            textEdit9.TabIndex = 15;
+            txtCostLimPowFull.Location = new System.Drawing.Point(77, 108);
+            txtCostLimPowFull.Name = "txtCostLimPowFull";
+            txtCostLimPowFull.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostLimPowFull.Properties.MaskSettings.Set("mask", "f2");
+            txtCostLimPowFull.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostLimPowFull.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostLimPowFull.Properties.UseMaskAsDisplayFormat = true;
+            txtCostLimPowFull.Size = new System.Drawing.Size(100, 20);
+            txtCostLimPowFull.TabIndex = 15;
             // 
-            // textEdit8
+            // txtCostLimNormMed
             // 
-            textEdit8.Location = new System.Drawing.Point(77, 82);
-            textEdit8.Name = "textEdit8";
-            textEdit8.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
-            textEdit8.Properties.MaskSettings.Set("mask", "f2");
-            textEdit8.Properties.MaskSettings.Set("culture", "es-MX");
-            textEdit8.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
-            textEdit8.Properties.UseMaskAsDisplayFormat = true;
-            textEdit8.Size = new System.Drawing.Size(100, 20);
-            textEdit8.TabIndex = 14;
+            txtCostLimNormMed.Location = new System.Drawing.Point(77, 82);
+            txtCostLimNormMed.Name = "txtCostLimNormMed";
+            txtCostLimNormMed.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtCostLimNormMed.Properties.MaskSettings.Set("mask", "f2");
+            txtCostLimNormMed.Properties.MaskSettings.Set("culture", "es-MX");
+            txtCostLimNormMed.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtCostLimNormMed.Properties.UseMaskAsDisplayFormat = true;
+            txtCostLimNormMed.Size = new System.Drawing.Size(100, 20);
+            txtCostLimNormMed.TabIndex = 14;
             // 
-            // textEdit7
+            // txtCostLimNing
             // 
-            textEdit7.EditValue = "0.00";
-            textEdit7.Enabled = false;
-            textEdit7.Location = new System.Drawing.Point(77, 30);
-            textEdit7.Name = "textEdit7";
-            textEdit7.Size = new System.Drawing.Size(100, 20);
-            textEdit7.TabIndex = 13;
+            txtCostLimNing.EditValue = "";
+            txtCostLimNing.Enabled = false;
+            txtCostLimNing.Location = new System.Drawing.Point(77, 30);
+            txtCostLimNing.Name = "txtCostLimNing";
+            txtCostLimNing.Size = new System.Drawing.Size(100, 20);
+            txtCostLimNing.TabIndex = 13;
             // 
             // groupControl8
             // 
@@ -499,27 +499,27 @@
             Text = "ConfigCotizacionesUV";
             ((System.ComponentModel.ISupportInitialize)groupControl1).EndInit();
             groupControl1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)textEdit1.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTiemImp.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl2).EndInit();
             groupControl2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)textEdit3.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTiemPlot.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl3).EndInit();
             groupControl3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)textEdit5.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTiemDepi.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl4).EndInit();
             groupControl4.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)textEdit2.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostHotFix.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl5).EndInit();
             groupControl5.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)textEdit4.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostTrans.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl7).EndInit();
             groupControl7.ResumeLayout(false);
             groupControl7.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)textEdit11.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit10.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit9.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit8.Properties).EndInit();
-            ((System.ComponentModel.ISupportInitialize)textEdit7.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimNorm.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimManual.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimPowFull.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimNormMed.Properties).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtCostLimNing.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)groupControl8).EndInit();
             groupControl8.ResumeLayout(false);
             groupControl8.PerformLayout();
@@ -541,16 +541,16 @@
         private DevExpress.XtraEditors.GroupControl groupControl5;
         private DevExpress.XtraEditors.GroupControl groupControl7;
         private DevExpress.XtraEditors.GroupControl groupControl8;
-        private DevExpress.XtraEditors.TextEdit textEdit1;
-        private DevExpress.XtraEditors.TextEdit textEdit3;
-        private DevExpress.XtraEditors.TextEdit textEdit5;
-        private DevExpress.XtraEditors.TextEdit textEdit2;
-        private DevExpress.XtraEditors.TextEdit textEdit4;
-        private DevExpress.XtraEditors.TextEdit textEdit11;
-        private DevExpress.XtraEditors.TextEdit textEdit10;
-        private DevExpress.XtraEditors.TextEdit textEdit9;
-        private DevExpress.XtraEditors.TextEdit textEdit8;
-        private DevExpress.XtraEditors.TextEdit textEdit7;
+        private DevExpress.XtraEditors.TextEdit txtCostTiemImp;
+        private DevExpress.XtraEditors.TextEdit txtCostTiemPlot;
+        private DevExpress.XtraEditors.TextEdit txtCostTiemDepi;
+        private DevExpress.XtraEditors.TextEdit txtCostHotFix;
+        private DevExpress.XtraEditors.TextEdit txtCostTrans;
+        private DevExpress.XtraEditors.TextEdit txtCostLimNorm;
+        private DevExpress.XtraEditors.TextEdit txtCostLimManual;
+        private DevExpress.XtraEditors.TextEdit txtCostLimPowFull;
+        private DevExpress.XtraEditors.TextEdit txtCostLimNormMed;
+        private DevExpress.XtraEditors.TextEdit txtCostLimNing;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
         private DevExpress.XtraEditors.LabelControl labelControl17;
         private DevExpress.XtraEditors.LabelControl labelControl16;
