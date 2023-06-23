@@ -49,14 +49,14 @@ namespace TP
             int cantidadPares = int.Parse(txtTotalPares.Text);
             int cantidadImpares = cantidadPares * 2;
 
-            row.Cells["CantidadPares"].Value = cantidadPares.ToString();
-            row.Cells["CantidadImpares"].Value = cantidadImpares.ToString(); ;
+            row.Cells["Cantidad Pares"].Value = cantidadPares.ToString();
+            row.Cells["Cantidad Impares"].Value = cantidadImpares.ToString(); ;
             row.Cells["Descripcion"].Value = txtEstilo.Text;
             row.Cells["Largo"].Value = txtLargo.Text;
             row.Cells["Ancho"].Value = txtAncho.Text;
             row.Cells["Descuento"].Value = "";
-            row.Cells["PrecioUnitario"].Value = lblPrecioUnitario.Text;
-            row.Cells["PrecioTotal"].Value = lblPrecioVenta.Text;
+            row.Cells["Precio Unitario"].Value = lblPrecioUnitario.Text;
+            row.Cells["Precio Total"].Value = lblPrecioVenta.Text;
         }
 
         private void btmEliminar_Click(object sender, EventArgs e)
@@ -78,14 +78,14 @@ namespace TP
 
             txtCodigo.Text = string.Format("{0}", DateTime.Now.ToString("ddMMyyyyHHmmss"));
 
-            dgvImpresionUV.Columns.Add("CantidadPares", "CantidadPares");
-            dgvImpresionUV.Columns.Add("CantidadImpares", "CantidadImpares");
+            dgvImpresionUV.Columns.Add("Cantidad Pares", "CantidadPares");
+            dgvImpresionUV.Columns.Add("Cantidad Impares", "CantidadImpares");
             dgvImpresionUV.Columns.Add("Descripcion", "Descripcion");
             dgvImpresionUV.Columns.Add("Largo", "Largo");
             dgvImpresionUV.Columns.Add("Ancho", "Ancho");
             dgvImpresionUV.Columns.Add("Descuento", "Descuento");
-            dgvImpresionUV.Columns.Add("PrecioUnitario", "PrecioUnitario");
-            dgvImpresionUV.Columns.Add("PrecioTotal", "PrecioTotal");
+            dgvImpresionUV.Columns.Add("Precio Unitario", "PrecioUnitario");
+            dgvImpresionUV.Columns.Add("Precio Total", "PrecioTotal");
         }
 
         // Crea una clase personalizada que extienda PdfPageEventHelper
@@ -135,20 +135,6 @@ namespace TP
                 // Crea un objeto PdfWriter para escribir en el archivo PDF
                 PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(outputPath, FileMode.Create));
 
-                // Carga la imagen deseada
-                iTextSharp.text.Image logo = iTextSharp.text.Image.GetInstance("C://Users/USER/Pictures/TECNIPRINT1.jpg");
-
-                // Ajusta el tamaño y la posición de la imagen
-                logo.ScaleToFit(100f, 100f);
-                logo.Alignment = iTextSharp.text.Image.ALIGN_CENTER;
-
-                // Crea una instancia de la clase personalizada HeaderFooterEvent
-                HeaderFooterEvent eventHelper = new HeaderFooterEvent(logo);
-
-                // Establece el evento personalizado en el escritor
-                writer.PageEvent = eventHelper;
-
-
                 // Abre el documento para escribir contenido
                 doc.Open();
 
@@ -168,32 +154,21 @@ namespace TP
                 infoTable.AddCell(codigoCell);
 
                 PdfPCell fechaCell = new PdfPCell(new Phrase("Fecha: " + lblFechaActual.Text));
-                //fechaCell.HorizontalAlignment = PdfPCell.ALIGN_RIGHT;
                 fechaCell.Border = PdfPCell.NO_BORDER;
                 infoTable.AddCell(fechaCell);
 
                 PdfPCell empresaCell = new PdfPCell(new Phrase("Nombre de la empresa: " + "TECNIPRINT"));
-                empresaCell.HorizontalAlignment = PdfPCell.ALIGN_RIGHT;
                 empresaCell.Border = PdfPCell.NO_BORDER;
                 infoTable.AddCell(empresaCell);
 
                 doc.Add(infoTable);
 
-
                 // Salto Linea
-                Paragraph saltoLineaParagraph = new Paragraph("\n");
-                doc.Add(saltoLineaParagraph);
+                doc.Add(new Paragraph("\n"));
 
                 // Agrega el DataGridView como una tabla
                 PdfPTable table = new PdfPTable(dgvImpresionUV.Columns.Count);
-
-                // Configura el ancho de las columnas
-                float[] columnWidths = new float[dgvImpresionUV.Columns.Count];
-                for (int i = 0; i < dgvImpresionUV.Columns.Count; i++)
-                {
-                    columnWidths[i] = 100f; // Puedes ajustar el ancho según tus necesidades
-                }
-                table.SetWidths(columnWidths);
+                table.WidthPercentage = 100;
 
                 // Agrega los encabezados de columna
                 for (int i = 0; i < dgvImpresionUV.Columns.Count; i++)
@@ -216,11 +191,15 @@ namespace TP
                         }
                     }
                 }
+
+                // Ajusta automáticamente el ancho de las columnas al contenido
+                table.SetWidths(GetColumnWidths(dgvImpresionUV));
+
                 // Agrega la tabla al documento
                 doc.Add(table);
 
                 // Salto linea
-                doc.Add(saltoLineaParagraph);
+                doc.Add(new Paragraph("\n"));
 
                 // Cierra el documento
                 doc.Close();
@@ -233,6 +212,27 @@ namespace TP
                 // Muestra un mensaje de error si ocurre alguna excepción
                 MessageBox.Show("Ocurrió un error al generar el PDF de cotización: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        // Método para obtener los anchos de columna basados en el contenido del DataGridView
+        private float[] GetColumnWidths(DataGridView dataGridView)
+        {
+            float[] widths = new float[dataGridView.Columns.Count];
+            float totalWidth = 0;
+
+            // Obtener el ancho total de todas las columnas
+            for (int i = 0; i < dataGridView.Columns.Count; i++)
+            {
+                totalWidth += dataGridView.Columns[i].Width;
+            }
+
+            // Calcular el ancho proporcional para cada columna
+            for (int i = 0; i < dataGridView.Columns.Count; i++)
+            {
+                widths[i] = (dataGridView.Columns[i].Width / totalWidth) * 100f;
+            }
+
+            return widths;
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
