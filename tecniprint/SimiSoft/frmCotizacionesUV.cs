@@ -54,9 +54,9 @@ namespace TP
             row.Cells["Descripcion"].Value = txtEstilo.Text;
             row.Cells["Largo"].Value = txtLargo.Text;
             row.Cells["Ancho"].Value = txtAncho.Text;
+            row.Cells["Descuento"].Value = "";
             row.Cells["PrecioUnitario"].Value = lblPrecioUnitario.Text;
             row.Cells["PrecioTotal"].Value = lblPrecioVenta.Text;
-            row.Cells["Descuento"].Value = "";
         }
 
         private void btmEliminar_Click(object sender, EventArgs e)
@@ -83,9 +83,9 @@ namespace TP
             dgvImpresionUV.Columns.Add("Descripcion", "Descripcion");
             dgvImpresionUV.Columns.Add("Largo", "Largo");
             dgvImpresionUV.Columns.Add("Ancho", "Ancho");
+            dgvImpresionUV.Columns.Add("Descuento", "Descuento");
             dgvImpresionUV.Columns.Add("PrecioUnitario", "PrecioUnitario");
             dgvImpresionUV.Columns.Add("PrecioTotal", "PrecioTotal");
-            dgvImpresionUV.Columns.Add("Descuento", "Descuento");
         }
 
         // Crea una clase personalizada que extienda PdfPageEventHelper
