@@ -197,7 +197,7 @@ namespace SimiSoft
             if (XtraMessageBox.Show("¿Estás seguro de cerrar sesión?", "Warning",
                MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 this.Close();
-
+             
         }
 
         private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
