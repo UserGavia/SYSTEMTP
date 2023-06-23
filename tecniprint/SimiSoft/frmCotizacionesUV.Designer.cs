@@ -117,6 +117,8 @@
             btnNuevo = new DevExpress.XtraEditors.SimpleButton();
             btmEliminar = new DevExpress.XtraEditors.SimpleButton();
             simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
+            txtDescuento = new DevExpress.XtraEditors.TextEdit();
+            labelControl25 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)groupControl1).BeginInit();
             groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)txtGloss.Properties).BeginInit();
@@ -155,6 +157,7 @@
             ((System.ComponentModel.ISupportInitialize)txtProducto.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)txtTotalPares.Properties).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dgvImpresionUV).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)txtDescuento.Properties).BeginInit();
             SuspendLayout();
             // 
             // groupControl1
@@ -902,7 +905,7 @@
             // 
             // labelControl36
             // 
-            labelControl36.Location = new System.Drawing.Point(625, 356);
+            labelControl36.Location = new System.Drawing.Point(559, 365);
             labelControl36.Name = "labelControl36";
             labelControl36.Size = new System.Drawing.Size(64, 13);
             labelControl36.TabIndex = 13;
@@ -910,7 +913,7 @@
             // 
             // labelControl37
             // 
-            labelControl37.Location = new System.Drawing.Point(625, 318);
+            labelControl37.Location = new System.Drawing.Point(559, 327);
             labelControl37.Name = "labelControl37";
             labelControl37.Size = new System.Drawing.Size(73, 13);
             labelControl37.TabIndex = 14;
@@ -918,7 +921,7 @@
             // 
             // labelControl38
             // 
-            labelControl38.Location = new System.Drawing.Point(625, 337);
+            labelControl38.Location = new System.Drawing.Point(559, 346);
             labelControl38.Name = "labelControl38";
             labelControl38.Size = new System.Drawing.Size(52, 13);
             labelControl38.TabIndex = 15;
@@ -926,7 +929,7 @@
             // 
             // lblPrecioVenta
             // 
-            lblPrecioVenta.Location = new System.Drawing.Point(704, 356);
+            lblPrecioVenta.Location = new System.Drawing.Point(638, 365);
             lblPrecioVenta.Name = "lblPrecioVenta";
             lblPrecioVenta.Size = new System.Drawing.Size(6, 13);
             lblPrecioVenta.TabIndex = 16;
@@ -934,7 +937,7 @@
             // 
             // lblPrecioUnitario
             // 
-            lblPrecioUnitario.Location = new System.Drawing.Point(704, 318);
+            lblPrecioUnitario.Location = new System.Drawing.Point(638, 327);
             lblPrecioUnitario.Name = "lblPrecioUnitario";
             lblPrecioUnitario.Size = new System.Drawing.Size(6, 13);
             lblPrecioUnitario.TabIndex = 17;
@@ -942,7 +945,7 @@
             // 
             // lblPrecioPar
             // 
-            lblPrecioPar.Location = new System.Drawing.Point(704, 337);
+            lblPrecioPar.Location = new System.Drawing.Point(638, 346);
             lblPrecioPar.Name = "lblPrecioPar";
             lblPrecioPar.Size = new System.Drawing.Size(6, 13);
             lblPrecioPar.TabIndex = 18;
@@ -1016,11 +1019,35 @@
             simpleButton1.Text = "Configurar";
             simpleButton1.Click += simpleButton1_Click;
             // 
+            // txtDescuento
+            // 
+            txtDescuento.Location = new System.Drawing.Point(638, 305);
+            txtDescuento.Name = "txtDescuento";
+            txtDescuento.Properties.MaskSettings.Set("MaskManagerType", typeof(DevExpress.Data.Mask.NumericMaskManager));
+            txtDescuento.Properties.MaskSettings.Set("MaskManagerSignature", "allowNull=False");
+            txtDescuento.Properties.MaskSettings.Set("mask", "d");
+            txtDescuento.Properties.MaskSettings.Set("culture", "es-MX");
+            txtDescuento.Properties.MaskSettings.Set("valueAfterDelete", DevExpress.Data.Mask.NumericMaskManager.ValueAfterDelete.ZeroThenNull);
+            txtDescuento.Properties.MaskSettings.Set("valueType", typeof(int));
+            txtDescuento.Properties.UseMaskAsDisplayFormat = true;
+            txtDescuento.Size = new System.Drawing.Size(84, 20);
+            txtDescuento.TabIndex = 26;
+            // 
+            // labelControl25
+            // 
+            labelControl25.Location = new System.Drawing.Point(559, 308);
+            labelControl25.Name = "labelControl25";
+            labelControl25.Size = new System.Drawing.Size(55, 13);
+            labelControl25.TabIndex = 27;
+            labelControl25.Text = "Descuento:";
+            // 
             // frmCotizacionesUV
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(1296, 934);
+            Controls.Add(labelControl25);
+            Controls.Add(txtDescuento);
             Controls.Add(simpleButton1);
             Controls.Add(btmEliminar);
             Controls.Add(btnNuevo);
@@ -1094,6 +1121,7 @@
             ((System.ComponentModel.ISupportInitialize)txtProducto.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)txtTotalPares.Properties).EndInit();
             ((System.ComponentModel.ISupportInitialize)dgvImpresionUV).EndInit();
+            ((System.ComponentModel.ISupportInitialize)txtDescuento.Properties).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -1187,5 +1215,7 @@
         private DevExpress.XtraEditors.TextEdit txtCategoria;
         private DevExpress.XtraEditors.TextEdit txtProducto;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
+        private DevExpress.XtraEditors.TextEdit txtDescuento;
+        private DevExpress.XtraEditors.LabelControl labelControl25;
     }
 }

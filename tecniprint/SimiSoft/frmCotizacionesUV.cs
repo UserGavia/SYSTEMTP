@@ -32,6 +32,7 @@ namespace TP
             txtSegundoImpresion.Text = "0";
             txtSegundoPloteado.Text = "0";
             txtSegundoDepilado.Text = "0";
+            txtDescuento.Text = "0";
         }
 
         //Fecha y Hora en tiempo real
@@ -54,7 +55,7 @@ namespace TP
             row.Cells["Descr"].Value = txtEstilo.Text;
             row.Cells["Largo"].Value = txtLargo.Text;
             row.Cells["Ancho"].Value = txtAncho.Text;
-            row.Cells["Dto"].Value = "0";
+            row.Cells["Dto"].Value = txtDescuento.Text;
             row.Cells["Precio Unitario"].Value = lblPrecioUnitario.Text;
             row.Cells["Precio Total"].Value = lblPrecioVenta.Text;
         }
