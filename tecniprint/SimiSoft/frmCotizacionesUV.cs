@@ -155,16 +155,29 @@ namespace TP
                 // Agrega el contenido al documento
                 // Puedes utilizar métodos como doc.Add() para agregar texto, imágenes, tablas, etc.
 
-                // Agrega información del cliente
-                Paragraph clienteParagraph = new Paragraph("Cliente: " + txtCliente.Text);
-                doc.Add(clienteParagraph);
+                // Agrega información del cliente y la empresa
+                PdfPTable infoTable = new PdfPTable(2);
+                infoTable.WidthPercentage = 100;
 
-                Paragraph codigoParagraph = new Paragraph("Codigo: " + txtCodigo.Text);
-                doc.Add(codigoParagraph);
+                PdfPCell clienteCell = new PdfPCell(new Phrase("Cliente: " + txtCliente.Text));
+                clienteCell.Border = PdfPCell.NO_BORDER;
+                infoTable.AddCell(clienteCell);
 
-                // Agrega información de la fecha
-                Paragraph fechaParagraph = new Paragraph("Fecha: " + lblFechaActual.Text);
-                doc.Add(fechaParagraph);
+                PdfPCell codigoCell = new PdfPCell(new Phrase("Codigo: " + txtCodigo.Text));
+                codigoCell.Border = PdfPCell.NO_BORDER;
+                infoTable.AddCell(codigoCell);
+
+                PdfPCell fechaCell = new PdfPCell(new Phrase("Fecha: " + lblFechaActual.Text));
+                //fechaCell.HorizontalAlignment = PdfPCell.ALIGN_RIGHT;
+                fechaCell.Border = PdfPCell.NO_BORDER;
+                infoTable.AddCell(fechaCell);
+
+                PdfPCell empresaCell = new PdfPCell(new Phrase("Nombre de la empresa: " + "TECNIPRINT"));
+                empresaCell.HorizontalAlignment = PdfPCell.ALIGN_RIGHT;
+                empresaCell.Border = PdfPCell.NO_BORDER;
+                infoTable.AddCell(empresaCell);
+
+                doc.Add(infoTable);
 
 
                 // Salto Linea
