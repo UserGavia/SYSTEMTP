@@ -46,25 +46,11 @@ namespace TP
             int indice_fila = dgvImpresionUV.Rows.Add();
             DataGridViewRow row = dgvImpresionUV.Rows[indice_fila];
 
-            row.Cells["CantidadPares"].Value = txtTotalPares.Text;
-            // Obtener el valor de CantidadPares
-            int cantidadPares;
-            if (int.TryParse(txtTotalPares.Text, out cantidadPares))
-            {
-                // Calcular el doble de CantidadPares
-                int cantidadImpares = cantidadPares * 2;
+            int cantidadPares = int.Parse(txtTotalPares.Text);
+            int cantidadImpares = cantidadPares * 2;
 
-                // Buscar la celda de la columna CantidadImpares
-                DataGridViewCell cantidadImparesCell = row.Cells["CantidadImpares"];
-
-                // Asignar el valor en la celda de la columna CantidadImpares
-                cantidadImparesCell.Value = cantidadImpares;
-            }
-            else
-            {
-                // Manejo de error si el valor de txtTotalPares.Text no es válido
-            }
-            //row.Cells["CantidadImpares"].Value = "";
+            row.Cells["CantidadPares"].Value = cantidadPares.ToString();
+            row.Cells["CantidadImpares"].Value = cantidadImpares.ToString(); ;
             row.Cells["Descripcion"].Value = txtEstilo.Text;
             row.Cells["Largo"].Value = txtLargo.Text;
             row.Cells["Ancho"].Value = txtAncho.Text;
@@ -93,7 +79,7 @@ namespace TP
             txtCodigo.Text = string.Format("{0}", DateTime.Now.ToString("ddMMyyyyHHmmss"));
 
             dgvImpresionUV.Columns.Add("CantidadPares", "CantidadPares");
-            dgvImpresionUV.Columns.Add("Pzs", "Pzs");
+            dgvImpresionUV.Columns.Add("CantidadImpares", "CantidadImpares");
             dgvImpresionUV.Columns.Add("Descripcion", "Descripcion");
             dgvImpresionUV.Columns.Add("Largo", "Largo");
             dgvImpresionUV.Columns.Add("Ancho", "Ancho");
