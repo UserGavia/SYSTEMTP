@@ -51,10 +51,10 @@ namespace TP
 
             row.Cells["Cantidad Pares"].Value = cantidadPares.ToString();
             row.Cells["Cantidad Impares"].Value = cantidadImpares.ToString(); ;
-            row.Cells["Descripcion"].Value = txtEstilo.Text;
+            row.Cells["Descr"].Value = txtEstilo.Text;
             row.Cells["Largo"].Value = txtLargo.Text;
             row.Cells["Ancho"].Value = txtAncho.Text;
-            row.Cells["Descuento"].Value = "";
+            row.Cells["Dto"].Value = "";
             row.Cells["Precio Unitario"].Value = lblPrecioUnitario.Text;
             row.Cells["Precio Total"].Value = lblPrecioVenta.Text;
         }
@@ -78,14 +78,14 @@ namespace TP
 
             txtCodigo.Text = string.Format("{0}", DateTime.Now.ToString("ddMMyyyyHHmmss"));
 
-            dgvImpresionUV.Columns.Add("Cantidad Pares", "CantidadPares");
-            dgvImpresionUV.Columns.Add("Cantidad Impares", "CantidadImpares");
-            dgvImpresionUV.Columns.Add("Descripcion", "Descripcion");
+            dgvImpresionUV.Columns.Add("Cantidad Pares", "Cantidad Pares");
+            dgvImpresionUV.Columns.Add("Cantidad Impares", "Cantidad Impares");
+            dgvImpresionUV.Columns.Add("Descr", "Descr");
             dgvImpresionUV.Columns.Add("Largo", "Largo");
             dgvImpresionUV.Columns.Add("Ancho", "Ancho");
-            dgvImpresionUV.Columns.Add("Descuento", "Descuento");
-            dgvImpresionUV.Columns.Add("Precio Unitario", "PrecioUnitario");
-            dgvImpresionUV.Columns.Add("Precio Total", "PrecioTotal");
+            dgvImpresionUV.Columns.Add("Dto", "Dto");
+            dgvImpresionUV.Columns.Add("Precio Unitario", "Precio Unitario");
+            dgvImpresionUV.Columns.Add("Precio Total", "Precio Total");
         }
 
         // Crea una clase personalizada que extienda PdfPageEventHelper
@@ -135,8 +135,24 @@ namespace TP
                 // Crea un objeto PdfWriter para escribir en el archivo PDF
                 PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(outputPath, FileMode.Create));
 
+                // Carga la imagen deseada
+                iTextSharp.text.Image logo = iTextSharp.text.Image.GetInstance("C://Users/USER/Pictures/TECNIPRINT1.jpg");
+
+                // Ajusta el tamaño y la posición de la imagen
+                logo.ScaleToFit(100f, 100f);
+                logo.Alignment = iTextSharp.text.Image.ALIGN_CENTER;
+
+                // Crea una instancia de la clase personalizada HeaderFooterEvent
+                HeaderFooterEvent eventHelper = new HeaderFooterEvent(logo);
+
+                // Establece el evento personalizado en el escritor
+                writer.PageEvent = eventHelper;
+
                 // Abre el documento para escribir contenido
                 doc.Open();
+
+                // Salto Linea
+                doc.Add(new Paragraph("\n"));
 
                 // Agrega el contenido al documento
                 // Puedes utilizar métodos como doc.Add() para agregar texto, imágenes, tablas, etc.
@@ -144,6 +160,7 @@ namespace TP
                 // Agrega información del cliente y la empresa
                 PdfPTable infoTable = new PdfPTable(2);
                 infoTable.WidthPercentage = 100;
+
 
                 PdfPCell clienteCell = new PdfPCell(new Phrase("Cliente: " + txtCliente.Text));
                 clienteCell.Border = PdfPCell.NO_BORDER;
@@ -218,18 +235,19 @@ namespace TP
         private float[] GetColumnWidths(DataGridView dataGridView)
         {
             float[] widths = new float[dataGridView.Columns.Count];
-            float totalWidth = 0;
+            float totalWidth = 0f;
 
-            // Obtener el ancho total de todas las columnas
+            // Calcula el ancho total de las columnas
             for (int i = 0; i < dataGridView.Columns.Count; i++)
             {
                 totalWidth += dataGridView.Columns[i].Width;
             }
 
-            // Calcular el ancho proporcional para cada columna
+            // Calcula el ancho proporcional de cada columna
             for (int i = 0; i < dataGridView.Columns.Count; i++)
             {
-                widths[i] = (dataGridView.Columns[i].Width / totalWidth) * 100f;
+                float widthPercentage = (dataGridView.Columns[i].Width / totalWidth) * 100f;
+                widths[i] = widthPercentage;
             }
 
             return widths;
