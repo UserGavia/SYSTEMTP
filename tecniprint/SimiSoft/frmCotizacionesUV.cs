@@ -54,7 +54,7 @@ namespace TP
             row.Cells["Descr"].Value = txtEstilo.Text;
             row.Cells["Largo"].Value = txtLargo.Text;
             row.Cells["Ancho"].Value = txtAncho.Text;
-            row.Cells["Dto"].Value = "";
+            row.Cells["Dto"].Value = "0";
             row.Cells["Precio Unitario"].Value = lblPrecioUnitario.Text;
             row.Cells["Precio Total"].Value = lblPrecioVenta.Text;
         }
